@@ -1,12 +1,13 @@
 import React from 'react'
 
-function Shop(){
+function Shop2(){
 
     return(
         <div>
-            <h2>Shop Page</h2>
+           <p>This is SHOP 2 Page</p>
+
         </div>
     )
 }
 
- export default Shop
+ export default Shop2
